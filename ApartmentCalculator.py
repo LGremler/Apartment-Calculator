@@ -28,6 +28,6 @@ print "The overall monthly cost is: " ,subtotal #Rent + Utilities
 print "The cost per person each month is: " ,monthly_cost #Rent + Utilities + Insurance
 print "The cost per person each year is: " ,yearly_cost #Rent + Utilities + Insurance + Application Fee
 print "The yearly insurance cost is: " ,insurance_cost #Insurance For the Year
-print "The appartment is $" +str(towers_comparison), "more expensive than towers" #Apartment Final - Towers Final
-print "The appartment is $" +str(freddy_comparison), "more expensive than Freddy Court" #Apartment Final - Freddy Final
+print "The apartment is $" +str(towers_comparison), "more expensive than towers" #Apartment Final - Towers Final
+print "The apartment is $" +str(freddy_comparison), "more expensive than Freddy Court" #Apartment Final - Freddy Final
 
